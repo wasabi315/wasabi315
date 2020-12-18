@@ -3,7 +3,7 @@
 
 [![wasabi315's github stats](https://github-readme-stats.vercel.app/api?username=wasabi315&count_private=true&show_icons=true&theme=nord)](https://github.com/wasabi315)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabi315&layout=compact&exclude_repo=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabi315&layout=compact&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wasabi315/wasabi315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
