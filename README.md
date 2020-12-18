@@ -1,4 +1,7 @@
-### Hi there 👋
+### :man_technologist: [wasabi315](https://wasabi315.github.io)
+👋 Hi, I'm wasabi315. I'm learning computer science in Tokyo Insutitute of Technology.
+
+[![wasabi315's github stats](https://github-readme-stats.vercel.app/api?username=wasabi315&count_private=true&show_icons=true&theme=nord)](https://github.com/wasabi315)
 
 <!--
 **wasabi315/wasabi315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
